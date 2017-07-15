@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/abrirfoto" />
+            <option value="$PROJECT_DIR$/animationprojects" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calculadora" />
+            <option value="$PROJECT_DIR$/camara" />
+            <option value="$PROJECT_DIR$/comunicacion" />
+            <option value="$PROJECT_DIR$/ejercicio1" />
+            <option value="$PROJECT_DIR$/fragments" />
+            <option value="$PROJECT_DIR$/intents" />
+            <option value="$PROJECT_DIR$/quizapp" />
+            <option value="$PROJECT_DIR$/realdatabases" />
+            <option value="$PROJECT_DIR$/realdatabse" />
+            <option value="$PROJECT_DIR$/shardepreferences" />
+            <option value="$PROJECT_DIR$/tarea1semanacampusparty" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

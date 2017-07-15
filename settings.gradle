@@ -1,0 +1,1 @@
+include ':app', ':comunicacion', ':calculadora', ':intents', ':ejercicio1', ':camara', ':abrirfoto', ':tarea1semanacampusparty', ':fragments', ':quizapp', ':animationprojects', ':shardepreferences', ':realdatabse', ':realdatabases'
