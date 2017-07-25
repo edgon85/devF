@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/abrirfoto" />
             <option value="$PROJECT_DIR$/animationprojects" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autocompleteplaces" />
             <option value="$PROJECT_DIR$/calculadora" />
             <option value="$PROJECT_DIR$/camara" />
             <option value="$PROJECT_DIR$/comunicacion" />
@@ -20,8 +21,14 @@
             <option value="$PROJECT_DIR$/quizapp" />
             <option value="$PROJECT_DIR$/realdatabases" />
             <option value="$PROJECT_DIR$/realdatabse" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/recyclerview-realm" />
+            <option value="$PROJECT_DIR$/retrofit-recyclerview" />
+            <option value="$PROJECT_DIR$/retrofitexample" />
+            <option value="$PROJECT_DIR$/retrofitexamplemodels" />
             <option value="$PROJECT_DIR$/shardepreferences" />
             <option value="$PROJECT_DIR$/tarea1semanacampusparty" />
+            <option value="$PROJECT_DIR$/toolbar" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

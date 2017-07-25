@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/abrirfoto/abrirfoto.iml" filepath="$PROJECT_DIR$/abrirfoto/abrirfoto.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationprojects/animationprojects.iml" filepath="$PROJECT_DIR$/animationprojects/animationprojects.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompleteplaces/autocompleteplaces.iml" filepath="$PROJECT_DIR$/autocompleteplaces/autocompleteplaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/camara/camara.iml" filepath="$PROJECT_DIR$/camara/camara.iml" />
       <module fileurl="file://$PROJECT_DIR$/comunicacion/comunicacion.iml" filepath="$PROJECT_DIR$/comunicacion/comunicacion.iml" />
@@ -15,8 +16,14 @@
       <module fileurl="file://$PROJECT_DIR$/quizapp/quizapp.iml" filepath="$PROJECT_DIR$/quizapp/quizapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/realdatabases/realdatabases.iml" filepath="$PROJECT_DIR$/realdatabases/realdatabases.iml" />
       <module fileurl="file://$PROJECT_DIR$/realdatabse/realdatabse.iml" filepath="$PROJECT_DIR$/realdatabse/realdatabse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview-realm/recyclerview-realm.iml" filepath="$PROJECT_DIR$/recyclerview-realm/recyclerview-realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit-recyclerview/retrofit-recyclerview.iml" filepath="$PROJECT_DIR$/retrofit-recyclerview/retrofit-recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitexample/retrofitexample.iml" filepath="$PROJECT_DIR$/retrofitexample/retrofitexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitexamplemodels/retrofitexamplemodels.iml" filepath="$PROJECT_DIR$/retrofitexamplemodels/retrofitexamplemodels.iml" />
       <module fileurl="file://$PROJECT_DIR$/shardepreferences/shardepreferences.iml" filepath="$PROJECT_DIR$/shardepreferences/shardepreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarea1semanacampusparty/tarea1semanacampusparty.iml" filepath="$PROJECT_DIR$/tarea1semanacampusparty/tarea1semanacampusparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/toolbar/toolbar.iml" />
     </modules>
   </component>
 </project>
