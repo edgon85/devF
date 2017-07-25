@@ -22,6 +22,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
     private List<Contactos> contactos = new ArrayList<>();
+    private Contactos contactList;
     private RecyclerView listaContactos;
     private ContactosAdapter contactosAdapter;
 
@@ -42,7 +43,14 @@ public class MainActivity extends AppCompatActivity {
         servicesInterfaces.loadData().enqueue(new Callback<ListaContactos>() {
             @Override
             public void onResponse(Call<ListaContactos> call, Response<ListaContactos> response) {
-                Log.e("MyLog",response.toString());
+/*
+                for (int i = 0; i < response.body().getContactos().size(); i++) {
+                    contactList = response.body().getContactos().get(i);
+                    Log.e("MyLog-->",contactList.getName());
+                }*/
+//              Log.e("MyLog",response.toString());
+                inicializarAdapter(response.body().getContactos());
+
             }
 
             @Override
